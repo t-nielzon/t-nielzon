@@ -30,7 +30,6 @@
   <a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
   <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>  
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/visual_studio_code-555?logo=visualstudiocode&style=for-the-badge" alt="visual-studio-code" title="Visual Studio Code" /></a>  
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI%20-%234EA94B.svg?&style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href="https://fusionauth.io/"><img src="https://img.shields.io/badge/FusionAuth%20-%230B5A6D.svg?&style=for-the-badge&logo=fusionauth&logoColor=white"/></a>
